@@ -1,0 +1,15 @@
+Variable,Moyenne OK,Moyenne KO,Différence,Paramètre MACSiQ lié,Suggestion d'ajustement,% de changement indicatif,p-value
+Cell Size,9.94,11.2,-,Diamètre min / max,-,-,0.0237
+Cell Shape Elongation,10.03,10.83,-,Contours / Séparation,-,-,0.0714
+Nucleus Size,9.65,10.07,-,Diamètre min / max,-,-,0.2154
+Quality Nuclear Segmentation,10.1,9.54,-,Sensibilité / Smoothing,-,-,0.2341
+Nucleus Roundness,10.12,10.64,-,Séparation / Smoothing,-,-,0.2682
+Nucleus Convexity,9.91,10.47,-,Smoothing filter sigma,-,-,0.2968
+Cell Bbox X Size,9.78,9.41,-,Diamètre max,-,-,0.358
+Cell Shape Ellipse Like,9.99,9.72,-,Contours / Smoothing,-,-,0.6833
+Cell Convexity,9.99,9.88,-,Smoothing filter sigma,-,-,0.745
+Quality Cell In-Focus,10.06,10.03,-,Qualité image (acquisition),-,-,0.8612
+Cell Shape Square Like,9.83,9.92,-,Contours,-,-,0.8938
+Cell Shape Triangle Like,10.11,10.13,-,Contours,-,-,0.9028
+Cell Bbox Y Size,9.86,9.72,-,Diamètre max,-,-,0.9745
+Cell Shape Circle Like,9.63,9.56,-,Contours / Smoothing,-,-,0.9895
