@@ -26,7 +26,7 @@ pip install -e .
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mathisbouvet/macsima_qc/main/macsima_qc_linkedin.png" alt="Average Kolmogorov-Smirnov distances by segmentation" width="700">
+![LinkeDin](assets/macsima_qc_linkedin.png)
 </p>
 
 
@@ -139,7 +139,7 @@ The Mann-Whitney U test then compares OK vs KO distributions for each feature. W
 | `macsiq_param_suggestions.csv` | MACSiQView parameter adjustment suggestions |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mathisbouvet/macsima_qc/main/anomaly_scores_distribution.png" alt="Distribution of Isolation Forest anomaly scores" width="700">
+![Distribution](assets/anomaly_scores_distribution.png)
 </p>
 
 <p align="center"><em>Anomaly score distribution from the Isolation Forest — cells below the decision threshold are flagged as <code>Segmentation_KO</code>.</em></p>
@@ -193,11 +193,11 @@ distances = run_comparison(
 This produces a barplot of average KS distances and KDE distribution curves for the main morphological parameters, identifying the automatic segmentation closest to the manual reference.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mathisbouvet/macsima_qc/main/ks_average_distances.png" alt="Average Kolmogorov-Smirnov distances by segmentation" width="700">
+![Distances](assets/ks_average_distances.png)
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mathisbouvet/macsima_qc/main/distributions_compar%C3%A9es.png" alt="KDE comparative distributions" width="700">
+![Comparé](assets/distributions_comparées.png)
 </p>
 
 <p align="center"><em>Lower KS distance = closer match to the manual reference. Here, <strong>Mask 4 – Single Cell</strong> performs best across most morphological parameters.</em></p>
