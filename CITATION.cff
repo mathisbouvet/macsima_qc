@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "macsima-qc"
+authors:
+  - family-names: "Bouvet"
+    given-names: "Mathis"
+date-released: 2026-01-01
+url: "https://github.com/mathisbouvet/macsima-qc"
+repository-code: "https://github.com/mathisbouvet/macsima-qc"
+license: MIT
+version: 0.1.3
