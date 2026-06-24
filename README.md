@@ -10,7 +10,7 @@
 Python package for evaluating and comparing cell segmentation results from the MACSima cyclic immunofluorescence platform, using manual ROI references from Fiji/ImageJ.
 
 
-<img src="assets/home.png" width="500">
+<img src="assets/macsima_qc_home.png" width="500">
 
 ## Installation
 
@@ -29,7 +29,7 @@ pip install -e .
 ---
 
 <p align="center">
-<img src="assets/macsima_qc_linkedin.png" width="500">
+<img src="assets/home.png" width="500">
 </p>
 
 
