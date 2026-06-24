@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=68", "wheel"]
+requires = ["setuptools>=77.0.3", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -7,7 +7,8 @@ name = "macsima-qc"
 version = "0.1.4"
 description = "Quality control pipeline for MACSima / MACSiQView cell segmentation"
 readme = "README.md"
-license = { text = "MIT" }
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [
     { name = "Mathis Bouvet" }
 ]
@@ -17,7 +18,6 @@ classifiers = [
     "Intended Audience :: Science/Research",
     "Topic :: Scientific/Engineering :: Bio-Informatics",
     "Topic :: Scientific/Engineering :: Image Processing",
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
@@ -38,8 +38,9 @@ dependencies = [
 [project.optional-dependencies]
 dev = ["pytest>=7.0", "pytest-cov"]
 [project.urls]
-Homepage = "https://github.com/mathisbouvet/MACSima_Advanced-Spatial-Omics-Pipeline"
-Repository = "https://github.com/mathisbouvet/MACSima_Advanced-Spatial-Omics-Pipeline"
+Homepage = "https://github.com/mathisbouvet/macsima-qc"
+Repository = "https://github.com/mathisbouvet/macsima-qc"
+Issues = "https://github.com/mathisbouvet/macsima-qc/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
