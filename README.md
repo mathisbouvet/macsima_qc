@@ -149,7 +149,7 @@ The Mann-Whitney U test then compares OK vs KO distributions for each feature. W
 
 ## 2. Creating a reference segmentation *(optional)*
 
-> For the full step-by-step protocol, see the [Test of Segmentation protocol](https://github.com/mathisbouvet/MACSima_Advanced-Spatial-Omics-Pipeline/blob/main/protocols/Test%20of%20segmentation.md).
+> For the full step-by-step protocol, see the [01_segmentation_qc](https://github.com/mathisbouvet/MACSima_Advanced-Spatial-Omics-Pipeline/blob/main/protocols/Test%20of%20segmentation.md).
 
 A reference DAPI image is extracted from the MACSima system and exported in `.tif` format for processing in Fiji. Regions of interest (ROI) are manually drawn to serve as the basis for segmentation masks.
 

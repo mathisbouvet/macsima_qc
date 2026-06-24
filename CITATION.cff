@@ -4,8 +4,8 @@ title: "macsima-qc"
 authors:
   - family-names: "Bouvet"
     given-names: "Mathis"
-date-released: 2026-01-01
+date-released: 2026-06-24
 url: "https://github.com/mathisbouvet/macsima-qc"
 repository-code: "https://github.com/mathisbouvet/macsima-qc"
 license: MIT
-version: 0.1.3
+version: 1.1.0
